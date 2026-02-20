@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# Environment variables (Sabse zaroori - isme aapki DB string hoti hai)
+.env
+.env.local
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Build directory (agar typescript use kar rahe ho toh)
+dist/
+build/
